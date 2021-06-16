@@ -8,7 +8,7 @@ Njombe region´s main economic activities are agriculture (76.3% of GDP) and liv
 
 **Could we create an environment where local youth gain the tools and mindset to transform the challenges that surround them into social enterprises?** SINA has the answer.
 
-The [SINA model](https://socialinnovationacademy.org/our-model/) has proven that through a cost-effective and “freesponsible” community approach, marginalized youth can become self-reliant and can create a future for themselves through social enterprises, which in turn disrupt the root causes of social problems. Skills are gained by taking up responsibilities within self-organization in a SINA community. Youth grow personally and professionally while putting learned tools immediately into practice.
+The [SINA model](https://socialinnovationacademy.org/our-model/) ([short documentary about SINA](https://www.youtube.com/watch?v=KOEXSSZT3sI)) has proven that through a cost-effective and “freesponsible” community approach, marginalized youth can become self-reliant and can create a future for themselves through social enterprises, which in turn disrupt the root causes of social problems. Skills are gained by taking up responsibilities within self-organization in a SINA community. Youth grow personally and professionally while putting learned tools immediately into practice.
 
 Social enterprises which emerged range from organic mosquito repellant soap to construction out of plastic bottles or a flooring solution from plastic bags and eggshells. SINA scholars have gone as far as being recognized by the Queen of England, Obama or Ban Ki-moon as changemakers and social entrepreneurs.
 
