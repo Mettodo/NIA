@@ -49,7 +49,9 @@ All the agents will walk the talk and self-organise with Holacracy. Hence, decis
 
 ## Want to contribute? 
 Check our issues ;)  
-Funding is our main current need; we need it to get started! Any help on this regard (creation of audiovisual materials, promotion, etc.) is warmly welcome.
+Funding is our main current need; we need it to get started! Head over to [Gitcoin](https://gitcoin.co/grants/2687/njombe-innovation-academy-panvala-league). Njombe Innovation Academy (NIA) is a proud member of the Panvala League. Donations in PAN are very much appreciated. You can get PAN on [Uniswap](https://app.uniswap.org/#/swap?outputCurrency=0xd56dac73a4d6766464b38ec6d91eb45ce7457c44) or on [Mesa](https://mesa.eth.link/).
+
+Since we are just starting we are not very well known in the crypto ecosystem. If you like NIA, share this grant with your friends or just tweet about us! 
 
 When things get moving on the ground we will require additional help: e.g. mentors and coaches for scholars and local social enterprises.    
 
