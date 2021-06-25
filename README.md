@@ -33,7 +33,7 @@ Mechanisms for the sustainability of the academy are in place. It is assumed tha
 - 1st cohort of certified trainers
 - Secured funding to run another year
 
-## Strategic approached & sustainability
+## Strategic approach & sustainability
 
 2-3 youth (at least 1 woman) will stay at SINA in Uganda for 9 months to become equipped with all the skills and tools necessary to replicate the model in Njombe. In the meantime, in Njombe, the learning space will be arranged, materials will be procured, SINA Njombe will be registered, local mentors and coaches will be selected and a selection process will be carried out to select 20 participants of the first cohort in Njombe. At least 50% of the selected participants will be women, 15% will be people with disabilities and all of them will come from marginalised and/or poor backgrounds.
 
