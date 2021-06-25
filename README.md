@@ -33,10 +33,23 @@ Mechanisms for the sustainability of the academy are in place. It is assumed tha
 - 1st cohort of certified trainers
 - Secured funding to run another year
 
+## Strategic approached & sustainability
+
+2-3 youth (at least 1 woman) will stay at SINA in Uganda for 9 months to become equipped with all the skills and tools necessary to replicate the model in Njombe. In the meantime, in Njombe, the learning space will be arranged, materials will be procured, SINA Njombe will be registered, local mentors and coaches will be selected and a selection process will be carried out to select 20 participants of the first cohort in Njombe. At least 50% of the selected participants will be women, 15% will be people with disabilities and all of them will come from marginalised and/or poor backgrounds.
+
+Within NIA´s first 2 years, two cohorts of scholars will undergo SINA´s empowerment process (one cohort each year) while living together and co-creating a self-organised, commons-based, feminist and transparent community with open source principles, benefiting from the experience of those youth who stayed in Uganda. Their enterprises will then move into the incubation phase. Before the second cohort starts a “train-the-trainer” training will take place where scholars will get ready to become the life-coaches, mentors, training facilitators and self-management trainers of the second cohort.
+
+In the short term we will look for donations (e.g. local business people). In the medium term social enterprises "born" at NIA will be the main source of income, with donations matched by Panvala and we will experiment with tokenisation or community currencies.
+
 ## Implementation arrangements
 Local youth are the key project agents: they are not “passive beneficiaries” but active agents who lead the creation of a SINA community in Njombe. The other agents offer a conducive environment and provide support and expertise in required topics. This arrangement has already been successfully implemented to replicate SINA communities in Zimbabwe or DRC, to mention a few. It allows youth to gain skills by taking up responsibilities within self-organization in a SINA community and to grow personally and professionally while putting learned tools immediately into practice.
 
 All the agents will walk the talk and self-organise with Holacracy. Hence, decision-making (including the channeling of funds) will be consent-based and transparent. 
+
+### Transparency 
+Gnosis safe main multisig wallet: [0x308Fd8FB79379dEAD5A360FFb6Dd2D1AFf9F5EE4](https://etherscan.io/address/0x308Fd8FB79379dEAD5A360FFb6Dd2D1AFf9F5EE4)
+
+Wallet addres for Giveth: [0xAb2456B5758C0d7f4272151eFb56cb7643CA7E30](https://etherscan.io/address/0xAb2456B5758C0d7f4272151eFb56cb7643CA7E30)
 
 ### Team:
 - [SHIPO](http://shipo.or.tz/): implementing agency, project coordination. Workshop and learning space. Expertise on simple technologies and circular economy 
