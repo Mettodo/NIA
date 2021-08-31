@@ -62,7 +62,8 @@ Wallet addres for Giveth: [0xAb2456B5758C0d7f4272151eFb56cb7643CA7E30](https://e
 
 ## Want to contribute? 
 Check our issues ;)  
-Funding is our main current need; we need it to get started! Head over to [Gitcoin](https://gitcoin.co/grants/2687/njombe-innovation-academy-panvala-league). Njombe Innovation Academy (NIA) is a proud member of the Panvala League. Donations in PAN are very much appreciated. You can get PAN on [Uniswap](https://app.uniswap.org/#/swap?outputCurrency=0xd56dac73a4d6766464b38ec6d91eb45ce7457c44).
+Funding is our main current need; we need it to get started! Head over to [Gitcoin](https://gitcoin.co/grants/2687/njombe-innovation-academy-panvala-league) or [Giveth](https://giveth.io/project/Njombe-Innovation-Academy-1) (xDai). 
+[Njombe Innovation Academy (NIA) is a proud member of the Panvala League](https://panvala.com/njombe-innovation-academy/). Donations in PAN are very much appreciated. You can get PAN on [Uniswap](https://app.uniswap.org/#/swap?outputCurrency=0xd56dac73a4d6766464b38ec6d91eb45ce7457c44).
 
 Since we are just starting we are not very well known in the crypto ecosystem. If you like NIA, share this grant with your friends or just tweet about us! 
 
