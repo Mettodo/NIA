@@ -24,10 +24,10 @@ The desired impact is an increased number of social challenges tackled in Njombe
 At least 20 scholars trained per year who create 5 social enterprises per year. It is assumed that successful scholars and enterprises have incentives to continue to contribute to the SINA community in Njombe.
 Mechanisms for the sustainability of the academy are in place. It is assumed that those mechanisms create the required culture (freedom and responsibility, knowledge sharing and mutual support, shared finances, shared materials and space, teamwork & collaboration) for the sustainability of the community.
 
-## Milestones               
+## Milestones & budget (2 years)               
 - 3 young people from Njombe complete SINA´s 5 stage replication process in Uganda - 8,000 USD
 - Space and materials ready in Njombe, including water, food and electricity provision systems - 20,000 USD
-- 1st and 2nd cohorts of scholars in Njombe - 15,000 USD
+- 1st and 2nd cohorts of scholars in Njombe - 15,000 USD + Coaches and facilitators 25,000 USD
 - 1st social enterprise registered in Njombe
 - An enterprise has a 2 million TZS turnover
 - 1st cohort of certified trainers
