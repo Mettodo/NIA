@@ -48,8 +48,8 @@ All the agents will walk the talk and self-organise with Holacracy. Hence, decis
 
 ### Transparency 
 Gnosis safe main multisig wallet: [0x308Fd8FB79379dEAD5A360FFb6Dd2D1AFf9F5EE4](https://etherscan.io/address/0x308Fd8FB79379dEAD5A360FFb6Dd2D1AFf9F5EE4)
-
 Wallet addres for Giveth: [0xAb2456B5758C0d7f4272151eFb56cb7643CA7E30](https://etherscan.io/address/0xAb2456B5758C0d7f4272151eFb56cb7643CA7E30)
+[Open Collective](https://opencollective.com/njombe-innovation-academy)
 
 ### Team:
 - [SHIPO](http://shipo.or.tz/): implementing agency, project coordination. Workshop and learning space. Expertise on simple technologies and circular economy 
@@ -62,13 +62,5 @@ Wallet addres for Giveth: [0xAb2456B5758C0d7f4272151eFb56cb7643CA7E30](https://e
 
 ## Want to contribute? 
 Check our issues ;)  
-Funding is our main current need; we need it to get started! Head over to [Gitcoin](https://gitcoin.co/grants/2687/njombe-innovation-academy-panvala-league) or [Giveth](https://giveth.io/project/Njombe-Innovation-Academy-1) (xDai). 
-[Njombe Innovation Academy (NIA) is a proud member of the Panvala League](https://panvala.com/njombe-innovation-academy/). Donations in PAN are very much appreciated. You can get PAN on [Uniswap](https://app.uniswap.org/#/swap?outputCurrency=0xd56dac73a4d6766464b38ec6d91eb45ce7457c44).
-
-Since we are just starting we are not very well known in the crypto ecosystem. If you like NIA, share this grant with your friends or just tweet about us! 
-
-When things get moving on the ground we will require additional help: e.g. mentors and coaches for scholars and local social enterprises.    
-
-Read [here](https://drive.google.com/file/d/1jlRqhUpR1JjiFldHqaLJnz1EfhvtITOJ/view?usp=sharing) NIA´s concept note and feel free to make suggestions.
 
 Karibuni sana!
