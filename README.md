@@ -1,5 +1,5 @@
 # NIA
-Njombe Innovation Academy unleashes the potential of local youth to transform social challenges into social enterprises. It replicates the succesful [social innovation academy (SINA) model](https://socialinnovationacademy.org/our-model/) in Njombe (Tanzania).
+Njombe Innovation Academy unleashes the potential of local youth to transform social challenges into social enterprises. It replicates the successful [social innovation academy (SINA) model](https://socialinnovationacademy.org/our-model/) in Njombe (Tanzania).
 
 ![Selection_002](https://user-images.githubusercontent.com/24914615/122033004-cfed5680-cdd8-11eb-891d-c1a4008580e3.png)
 
