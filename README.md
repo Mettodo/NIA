@@ -25,7 +25,7 @@ At least 20 scholars trained per year who create 5 social enterprises per year. 
 Mechanisms for the sustainability of the academy are in place. It is assumed that those mechanisms create the required culture (freedom and responsibility, knowledge sharing and mutual support, shared finances, shared materials and space, teamwork & collaboration) for the sustainability of the community.
 
 ## Milestones & budget (2 years)               
-- 3 young people from Njombe complete SINA´s 5 stage replication process in Uganda - 8,000 USD
+- 3 young people from Njombe complete SINA´s 5 stage replication process in Uganda - 8,000 USD DONE
 - Space and materials ready in Njombe, including water, food and electricity provision systems - 20,000 USD
 - 1st and 2nd cohorts of scholars in Njombe - 15,000 USD + Coaches and facilitators 25,000 USD
 - 1st social enterprise registered in Njombe
