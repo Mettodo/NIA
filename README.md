@@ -52,11 +52,11 @@ Wallet addres for Giveth: [0xAb2456B5758C0d7f4272151eFb56cb7643CA7E30](https://e
 [Open Collective](https://opencollective.com/njombe-innovation-academy)
 
 ### Team:
-- [SHIPO](http://shipo.or.tz/): implementing agency, project coordination. Workshop and learning space. Expertise on simple technologies and circular economy 
+- [TEACH](https://teachtanzania.org/): implementing agency, project coordination. Workshop and learning space. Expertise on simple technologies and circular economy 
 - Local youth (scholars): learn and experience the SINA model and replicate a self-organised community in Njombe. 
 - [SINA](https://socialinnovationacademy.org/) (Uganda and other SINA communities): the whole project mentoring and support. International network. Expertise on empowerment process and Holacracy. 
 - [Mzee Pwagu](https://michuzijr.blogspot.com/2019/06/rais-dktjohn-pombe-magufuli-akutana-na.html): technological innovation knowledge. Workshop, tools and machines
-- [VAHACA](https://docs.google.com/document/d/1ce2Q_zL2-FUjNLwnkjllweIWA-VaSymQQJddIt7uYBU/edit): mentoring and coaching of scholars. Expertise on innovation processes. Learning space in Njombe
+- [Aexie](https://aexie.com/): mentoring and coaching of scholars. Expertise on innovation processes. Learning space in Njombe
 - Local and national mentors and coaches 
 - [Buni hub](https://bunihub.or.tz/): mentoring for scholars and the whole project. Expertise on innovation processes and incubation. National level network (mentors & coaches, events, business and industry connections) and funding.
 
