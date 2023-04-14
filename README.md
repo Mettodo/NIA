@@ -3,6 +3,9 @@ Njombe Innovation Academy unleashes the potential of local youth to transform so
 
 ![Selection_002](https://user-images.githubusercontent.com/24914615/122033004-cfed5680-cdd8-11eb-891d-c1a4008580e3.png)
 
+
+[![SINA model](http://img.youtube.com/vi/KOEXSSZT3sI/0.jpg)](https://youtu.be/KOEXSSZT3sI "SINa model")
+
 ## Description
 Njombe region´s main economic activities are agriculture (76.3% of GDP) and livestock keeping. Local youth have few employment opportunities. Around 10% are unemployed and face unfavourable conditions to become entrepreneurs; hence, they usually engage in informal and unstable income-generating activities such as “mishe mishe” (daily small jobs) or seasonal farming. Youth who have not completed secondary or higher education (41% are out of school in secondary) are the most affected since they lack the skills and network to create or find decent income-generating activities. At the same time, Njombe faces social challenges such as malnutrition (levels of stunting are 49.4 %), HIV (11.4% prevalence) or poverty (GDP/capita 10% lower than the national level).
 
