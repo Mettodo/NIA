@@ -50,9 +50,9 @@ Local youth are the key project agents: they are not “passive beneficiaries”
 All the agents will walk the talk and self-organise with Holacracy. Hence, decision-making (including the channeling of funds) will be consent-based and transparent. 
 
 ### Transparency 
-Gnosis safe main multisig wallet: [0x308Fd8FB79379dEAD5A360FFb6Dd2D1AFf9F5EE4](https://etherscan.io/address/0x308Fd8FB79379dEAD5A360FFb6Dd2D1AFf9F5EE4)
-Wallet addres for Giveth: [0xAb2456B5758C0d7f4272151eFb56cb7643CA7E30](https://etherscan.io/address/0xAb2456B5758C0d7f4272151eFb56cb7643CA7E30)
-[Open Collective](https://opencollective.com/njombe-innovation-academy)
+- Gnosis safe main multisig wallet: [0x308Fd8FB79379dEAD5A360FFb6Dd2D1AFf9F5EE4](https://etherscan.io/address/0x308Fd8FB79379dEAD5A360FFb6Dd2D1AFf9F5EE4)
+- Wallet addres for Giveth: [0xAb2456B5758C0d7f4272151eFb56cb7643CA7E30](https://etherscan.io/address/0xAb2456B5758C0d7f4272151eFb56cb7643CA7E30)
+- [Open Collective](https://opencollective.com/njombe-innovation-academy)
 
 ### Team:
 - [TEACH](https://teachtanzania.org/): implementing agency, project coordination. Workshop and learning space. Expertise on simple technologies and circular economy 
