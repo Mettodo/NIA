@@ -66,4 +66,4 @@ All the agents will walk the talk and self-organise with Holacracy. Hence, decis
 ## Want to contribute? 
 Check our issues ;)  
 
-Karibuni sana!
+Karibuni sana! 
