@@ -17,20 +17,31 @@ Social enterprises which emerged range from organic mosquito repellant soap to c
 
 This model has already been replicated in countries other than its origin, Uganda; thus, planting a “SINA model seed” in Njombe will probably lead to additional self-organized spaces for social entrepreneurship across Tanzania.
 
-The ecosystem in Njombe is ready for SINA: there is political will, learning spaces and technologies, innovators and the interest of local youth who are already paying to attend training offered by Mzee Pwagu and SHIPO. A social innovation academy will be the space to bring together local (young) actors, provide them with additional skills and create a self-sustaining ecosystem that turns local challenges into social enterprises.  
+Njombe innovation academy is the space where local (young) actors come together, gain skills and create a self-sustaining ecosystem that turns local challenges into social enterprises.
 
 ## Theory of Change
-The desired impact is an increased number of social challenges tackled in Njombe by youth-led enterprises with locally available resources. In order to achieve that we will bootstrap a self-organised community of youth in Njombe who commonly owns and manages resources (material, knowledge, financial, social) to create social enterprises out of challenges (outcome). It is assumed that the potential and leadership to create positive social and environmental impact of local youth will be unleashed through the SINA model. 
+- Desired impact: an increased number of social challenges tackled in Njombe by youth-led enterprises with locally available resources. 
+- Outcome: in order to create that impact we are bootstrapping a self-organised community of youth in Njombe who commonly owns and manages resources (material, knowledge, financial, social) to create social enterprises out of challenges. 
+- Assumption: the potential and leadership to create positive social and environmental impact of local youth will be unleashed through the SINA model.
 
-## Expected outputs after 2 years:
-10 local youth (scholars) are capacitated to become coaches and mentors of future cohorts (3 in Uganda and 7 in Njombe). It is assumed that scholars trained in Uganda have incentives to create a SINA community in Njombe.
-At least 20 scholars trained per year who create 5 social enterprises per year. It is assumed that successful scholars and enterprises have incentives to continue to contribute to the SINA community in Njombe.
-Mechanisms for the sustainability of the academy are in place. It is assumed that those mechanisms create the required culture (freedom and responsibility, knowledge sharing and mutual support, shared finances, shared materials and space, teamwork & collaboration) for the sustainability of the community.
+## Expected outputs by 2024:
+- 5 local youth (scholars) are capacitated to become coaches and mentors of future cohorts (3 in Uganda and 7 in Njombe). It is assumed that scholars trained in Uganda have incentives to create a SINA community in Njombe.
+- At least 10 scholars are trained per year who create 2 social enterprises per year. It is assumed that successful scholars and enterprises have incentives to continue to contribute to the SINA community in Njombe.
+- Mechanisms for the sustainability of the academy are in place. It is assumed that those mechanisms create the required culture (freedom and responsibility, knowledge sharing and mutual support, shared finances, shared materials and space, teamwork & collaboration) for the sustainability of the community.
 
-## Milestones & budget (2 years)               
-- 3 young people from Njombe complete SINA´s 5 stage replication process in Uganda - 8,000 USD DONE
-- Space and materials ready in Njombe, including water, food and electricity provision systems - 20,000 USD
-- 1st and 2nd cohorts of scholars in Njombe - 15,000 USD + Coaches and facilitators 25,000 USD
+
+## Milestones & budget            
+✅ 2 young people from Njombe complete SINA´s 5 stage replication process in Uganda - 6,000 USD DONE 
+
+[![SINA model](https://img.youtube.com/vi/rgsmFyhHZ9I/hqdefault.jpg)](https://youtu.be/rgsmFyhHZ9I?feature=shared)
+
+
+⏳ Space and materials ready in Njombe, including water, food and electricity provision systems - 20,000 USD
+
+[![SINA model](https://img.youtube.com/vi/wTfqoiNdfb0/hqdefault.jpg)](https://youtu.be/wTfqoiNdfb0?feature=shared)
+Q3 2023 [updates]([url](https://x.com/nia_org/status/1721803177157181915?s=20)) 
+
+⏳ 1st and 2nd cohorts of scholars in Njombe - 15,000 USD + Coaches and facilitators 25,000 USD
 - 1st social enterprise registered in Njombe
 - An enterprise has a 2 million TZS turnover
 - 1st cohort of certified trainers
@@ -38,7 +49,7 @@ Mechanisms for the sustainability of the academy are in place. It is assumed tha
 
 ## Strategic approach & sustainability
 
-2-3 youth (at least 1 woman) will stay at SINA in Uganda for 9 months to become equipped with all the skills and tools necessary to replicate the model in Njombe. In the meantime, in Njombe, the learning space will be arranged, materials will be procured, SINA Njombe will be registered, local mentors and coaches will be selected and a selection process will be carried out to select 20 participants of the first cohort in Njombe. At least 50% of the selected participants will be women, 15% will be people with disabilities and all of them will come from marginalised and/or poor backgrounds.
+2 youths (Yohana and Ester) have stayed at SINA in Uganda for one full year to become equipped with all the skills and tools necessary to replicate the model in Njombe. In the meantime, in Njombe, the learning space has been arranged, materials have been procured, SINA Njombe has been registered, local mentors and coaches have been selected and a selection process has been carried out to select 15 participants of the first cohort in Njombe. At least 50% of the selected participants will be women, 15% will be people with disabilities and all of them will come from marginalised and/or poor backgrounds.
 
 Within NIA´s first 2 years, two cohorts of scholars will undergo SINA´s empowerment process (one cohort each year) while living together and co-creating a self-organised, commons-based, feminist and transparent community with open source principles, benefiting from the experience of those youth who stayed in Uganda. Their enterprises will then move into the incubation phase. Before the second cohort starts a “train-the-trainer” training will take place where scholars will get ready to become the life-coaches, mentors, training facilitators and self-management trainers of the second cohort.
 
@@ -46,8 +57,7 @@ In the short term we will look for donations (e.g. local business people). In th
 
 ## Implementation arrangements
 Local youth are the key project agents: they are not “passive beneficiaries” but active agents who lead the creation of a SINA community in Njombe. The other agents offer a conducive environment and provide support and expertise in required topics. This arrangement has already been successfully implemented to replicate SINA communities in Zimbabwe or DRC, to mention a few. It allows youth to gain skills by taking up responsibilities within self-organization in a SINA community and to grow personally and professionally while putting learned tools immediately into practice.
-
-All the agents will walk the talk and self-organise with Holacracy. Hence, decision-making (including the channeling of funds) will be consent-based and transparent. 
+All the agents will walk the talk and self-organise with Holacracy. Hence, decision-making (including the chanelling of funds) will be consent-based and transparent.
 
 ### Transparency 
 - Gnosis safe main multisig wallet: [0x308Fd8FB79379dEAD5A360FFb6Dd2D1AFf9F5EE4](https://etherscan.io/address/0x308Fd8FB79379dEAD5A360FFb6Dd2D1AFf9F5EE4)
@@ -55,11 +65,11 @@ All the agents will walk the talk and self-organise with Holacracy. Hence, decis
 - [Open Collective](https://opencollective.com/njombe-innovation-academy)
 
 ### Team:
+- Ester & Yohana: learn and experience the SINA model and replicate a self-organised community in Njombe.
 - [TEACH](https://teachtanzania.org/): implementing agency, project coordination. Workshop and learning space. Expertise on simple technologies and circular economy 
-- Local youth (scholars): learn and experience the SINA model and replicate a self-organised community in Njombe. 
 - [SINA](https://socialinnovationacademy.org/) (Uganda and other SINA communities): the whole project mentoring and support. International network. Expertise on empowerment process and Holacracy. 
-- [Mzee Pwagu](https://michuzijr.blogspot.com/2019/06/rais-dktjohn-pombe-magufuli-akutana-na.html): technological innovation knowledge. Workshop, tools and machines
 - [Aexie](https://aexie.com/): mentoring and coaching of scholars. Expertise on innovation processes. Learning space in Njombe
+- Unai: project coordination. Expertise on simple technologies and circular economy
 - Local and national mentors and coaches 
 - [Buni hub](https://bunihub.or.tz/): mentoring for scholars and the whole project. Expertise on innovation processes and incubation. National level network (mentors & coaches, events, business and industry connections) and funding.
 
